@@ -1,0 +1,6 @@
+pylint
+pytest
+pygame
+numpy
+math
+libsdl-mixer1.2
